@@ -9,5 +9,5 @@ Reference to Unionpay document(which you could get from Unionpay service support
 
 # SecurePlus Payment Flow
 
-  - Authentication
-  - Authorization
+  - Authentication (via UPOPe http/webform)
+  - Authorization (via GSCS/header-bitmap-message)
