@@ -7,7 +7,7 @@ Reference to Unionpay document(which you could get from Unionpay service support
 
   - Technical Specification 18.2
 
-# SecurePlus Payment Flow:
+# SecurePlus Payment Flow
 
   - Authentication
   - Authorization
