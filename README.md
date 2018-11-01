@@ -1,4 +1,4 @@
-# UnionPay Secure Plus Access
+# UnionPay Secureplus Access
 It is to provide the Lib for the communication with Unionpay server via secure plus payment mechanism
 
 Reference to Unionpay document(which you could get from Unionpay service support if you are one of the acquirer/merchant of unionpay): 
