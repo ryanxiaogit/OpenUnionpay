@@ -14,3 +14,5 @@
 /Infrastructure/obj
 /Domain/bin/Debug/netcoreapp2.1
 /Domain/obj
+/SecureplusApi/bin/Debug/netcoreapp2.1
+/SecureplusApi/obj
