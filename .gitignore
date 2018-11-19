@@ -3,3 +3,14 @@
 ################################################################################
 
 /spa/bin/Debug/netcoreapp2.1
+/spa/obj/Debug/netcoreapp2.1
+/spa/obj
+/Test/bin/Debug/netcoreapp2.1
+/Test/obj
+/.vs
+/Services/bin/Debug/netcoreapp2.1
+/Services/obj
+/Infrastructure/bin/Debug/netcoreapp2.1
+/Infrastructure/obj
+/Domain/bin/Debug/netcoreapp2.1
+/Domain/obj

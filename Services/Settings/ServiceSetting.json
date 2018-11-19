@@ -1,0 +1,21 @@
+{
+  "ServiceSetting": {
+    "BackTransUrl": "https://gateway.test.95516.com/gateway/api/backTransReq.do",
+    "EncryptCertPath": "",
+    "FrontTransUrl": "https://gateway.test.95516.com/gateway/api/frontTransReq.do",
+    "MiddleCertPath": "",
+    "QuerUrl": "https://gateway.test.95516.com/gateway/api/queryTrans.do",
+    "RootCertPath": "",
+    "SignCertPassword": "",
+    "SignCertPath": "",
+    "SignMethod": "01",
+    "Version": "5.1.0"
+  },
+  "MessageSetting": {
+    "UPOPSMSSendingRequestSetting": {
+      "SignMethod": "01",
+      "TxnType": "77",
+      "BizType": "000301"
+    }
+  }
+}
